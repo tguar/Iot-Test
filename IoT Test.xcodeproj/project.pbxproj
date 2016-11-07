@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -211,7 +211,7 @@
 				};
 			};
 			buildConfigurationList = 92103C0D1D9DAF930021E539 /* Build configuration list for PBXProject "IoT Test" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -514,6 +514,7 @@
 				92103C3C1D9DAF940021E539 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92103C3D1D9DAF940021E539 /* Build configuration list for PBXNativeTarget "IoT TestTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				92103C3F1D9DAF940021E539 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92103C401D9DAF940021E539 /* Build configuration list for PBXNativeTarget "IoT TestUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				92103C421D9DAF940021E539 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
